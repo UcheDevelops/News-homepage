@@ -487,6 +487,11 @@ body {
     width: 100%;
   }
 
+  .col-1-info-box .col-1-paragraph-box .read-more-btn {
+    font-weight: bold;
+    padding: 15px 30px;
+  }
+
   .col-1-paragraph-box .paragraph-modal {
     top: 20%;
     left: 8%;
